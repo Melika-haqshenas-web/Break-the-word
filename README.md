@@ -2,9 +2,9 @@
 
 ✂**Say Hello by cutting the word**
 
-![earth1](https://user-images.githubusercontent.com/126666369/236171436-5b5132c4-9687-4c83-b06c-9a64cf0e5e6c.jpg)
+![1](https://user-images.githubusercontent.com/126666369/236272968-f1f2afbc-e7b6-4ad2-9439-772c208d151c.jpg)
 
-![earth2](https://user-images.githubusercontent.com/126666369/236171447-e2eadf89-4b9e-4d23-9e98-e7fc31d2ce4e.jpg)
+![2](https://user-images.githubusercontent.com/126666369/236272983-9e6e931e-d0a5-42b2-9ed8-692c735a6e5d.jpg)
 
 - [Demo Project](https://melika-haqshenas-web.github.io/Building-Site/)
 
